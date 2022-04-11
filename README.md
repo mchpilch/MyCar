@@ -9,3 +9,5 @@ Screenshots:
 ![CAR1_screen](/screenshots/car1.png?raw=true "CAR1_screen")
 <br/>
 ![CAR2_screen](/screenshots/car2.png?raw=true "CAR2_screen")
+<br/>
+![UML_car](/screenshots/UML_car.png?raw=true "UML_CAR_screen")
