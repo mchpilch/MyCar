@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7863d35f-2cd0-4702-8fbe-d4063465a570" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1l3WxiqLSVOelMvOd4cvRvquOol" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SamochodGUI">
+    <configuration name="NowySamochodGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NowySamochodGUI" />
+      <module name="MyCar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Samochod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samochod" />
+      <module name="MyCar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SamochodGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SamochodGUI" />
+      <module name="MyCar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SamochodGUI8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SamochodGUI8" />
+      <module name="MyCar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SamochodGUI" />
+        <item itemvalue="Application.Samochod" />
+        <item itemvalue="Application.NowySamochodGUI" />
+        <item itemvalue="Application.SamochodGUI8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7863d35f-2cd0-4702-8fbe-d4063465a570" name="Default Changelist" comment="" />
+      <created>1606826505710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606826505710</updated>
+      <workItem from="1606826507066" duration="6457000" />
+      <workItem from="1606916017065" duration="4507000" />
+      <workItem from="1606920943399" duration="6698000" />
+      <workItem from="1606928635717" duration="5000" />
+      <workItem from="1606931818590" duration="1031000" />
+      <workItem from="1607604834072" duration="820000" />
+      <workItem from="1607613868016" duration="4918000" />
+      <workItem from="1608505659041" duration="245000" />
+      <workItem from="1608506265337" duration="2550000" />
+      <workItem from="1608509025429" duration="269000" />
+      <workItem from="1608556664699" duration="179000" />
+      <workItem from="1608734449651" duration="2549000" />
+      <workItem from="1608737178315" duration="3452000" />
+      <workItem from="1608740934073" duration="1487000" />
+      <workItem from="1608745792545" duration="2093000" />
+      <workItem from="1608750866317" duration="4739000" />
+      <workItem from="1609672418508" duration="5777000" />
+      <workItem from="1609678783404" duration="52000" />
+      <workItem from="1609679925876" duration="195000" />
+      <workItem from="1609682076149" duration="236000" />
+      <workItem from="1609682326320" duration="48000" />
+      <workItem from="1609943651277" duration="56000" />
+      <workItem from="1610027348643" duration="156000" />
+      <workItem from="1610032169879" duration="5653000" />
+      <workItem from="1610112563398" duration="128000" />
+      <workItem from="1610285772299" duration="7835000" />
+      <workItem from="1610300162206" duration="38000" />
+      <workItem from="1610300361617" duration="11882000" />
+      <workItem from="1610315221017" duration="319000" />
+      <workItem from="1610315559438" duration="1000" />
+      <workItem from="1610322204340" duration="4210000" />
+      <workItem from="1610362271531" duration="3855000" />
+      <workItem from="1610370266539" duration="1492000" />
+      <workItem from="1610372276070" duration="3674000" />
+      <workItem from="1610376216148" duration="850000" />
+      <workItem from="1610378570137" duration="1777000" />
+      <workItem from="1610637449917" duration="3255000" />
+      <workItem from="1649636392482" duration="612000" />
+      <workItem from="1649666382391" duration="258000" />
+      <workItem from="1649666677352" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Samochod.java</url>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SamochodGUI.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SamochodGUI.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="15" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="SamochodGUI" memberName="samochod" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
